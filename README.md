@@ -31,6 +31,8 @@ Once installed, then run as if you have [git](#with-git)
 
 ## Usage
 
+`InstanceGenerator.sh <number if instances> <file> <name> [start command (defaults to python3.8)]`
+
 ### Examples:
 
 #### Python file:
