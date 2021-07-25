@@ -25,7 +25,7 @@ If you are able to install git, do it with the following command:
 #### RPM based OS, including Fedora, CentOS and RHEL
 `sudo dnf install git-all`
 
-Once installed, then run as if you have [git](#With-git)
+Once installed, then run as if you have [git](#with-git)
 
 
 
